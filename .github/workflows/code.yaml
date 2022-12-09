@@ -1,4 +1,4 @@
-name: langs_app
+name: langs_app_la
 #Triggers (events)
 on:
   push:
